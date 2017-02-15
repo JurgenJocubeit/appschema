@@ -1,4 +1,4 @@
-# Appschema
+# AppSchema
 
 ## Copyright
 
