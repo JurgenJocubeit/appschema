@@ -1,4 +1,4 @@
-require './lib/appschema/version'
+require './lib/app_schema/version'
 
 Gem::Specification.new do |gemspec|
   gemspec.name = 'appschema'
